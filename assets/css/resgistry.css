@@ -1,0 +1,57 @@
+.resgistry_body {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.resgistry_body-text {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: -15px;
+}
+.resgistry_form-infor {
+  border: 1px solid #007bff;
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #ced4da;
+  box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 20%),
+    0 1px 5px 0 rgb(0 0 0 / 12%);
+}
+.resgistry_form {
+  font-size: 1.8rem;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+.registry-heading {
+  display: block;
+}
+.registry-input {
+  display: block;
+  height: 43px;
+  width: 400px;
+  font-size: 2rem;
+  line-height: 2rem;
+  outline: none;
+  border-radius: 3px;
+  border: 1px solid #ced4da;
+}
+.registry-input:focus {
+  border-color: none;
+}
+.registry-btn {
+  color: #007bff;
+  background-color: #007bff;
+  color: var(--text-white);
+  font-weight: 500;
+  width: 100%;
+  margin-top: 20px;
+  cursor: pointer;
+}
+/* rescheck */
+.resCheck {
+  font-size: 1.4rem;
+  color: red;
+}
+
+.registry-heading {
+  font-weight: 500;
+}
